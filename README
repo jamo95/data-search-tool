@@ -11,8 +11,3 @@ INSTALL
 ASSUMPTIONS
 
     If there is a search option or search term that does not exist, the program will throw an "Input Error" exception. This does not include missing values which instead outputs "No results found".
-    Search can handle both json and python syntax for boolean i.e. true & True, false & False
-
-AUTHOR
-
-    Jamison Tsai
